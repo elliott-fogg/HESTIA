@@ -1,12 +1,8 @@
-missing datasets can be found:
+*missing datasets:* - pc_mapping.csv - Postcode to LSOA - source [geoportal.statistics](https://geoportal.statistics.gov.uk/datasets/postcode-to-output-area-to-lower-layer-super-output-area-to-middle-layer-super-output-area-to-local-authority-district-february-2018-lookup-in-the-uk/data)
 
-pc_mapping.csv - Postcode to LSOA - source [geoportal.statistics](https://geoportal.statistics.gov.uk/datasets/postcode-to-output-area-to-lower-layer-super-output-area-to-middle-layer-super-output-area-to-local-authority-district-february-2018-lookup-in-the-uk/data)
+*original data:* - HM Land Registry Price Paid Data - https://www.gov.uk/guidance/about-the-price-paid-data
 
-original data:
-
-HM Land Registry Price Paid Data - https://www.gov.uk/guidance/about-the-price-paid-data
-
-other useful links:
+*other useful links:*
 
 Weather data - [metoffice](https://www.metoffice.gov.uk/climate/uk/summaries/datasets)
 
