@@ -11,9 +11,13 @@ UK postcode areas - [postcode-areas](https://www.summergardenbuildings.co.uk/pos
 
 **OUTPUT data (.csv files):**
 *brexit_postcodes.csv* - brexit vote vs postcode
+
 *imd.csv* - IMD vs postcode
+
 *income_postcodes.csv* - income vs postcode
+
 *gdp_percapita_uk.csv* - GDP per capita vs years (1995-2018)
+
 
 - brexit, imd, income, weather - folders which contain raw data
 
