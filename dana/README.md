@@ -9,18 +9,21 @@ Weather data - [metoffice](https://www.metoffice.gov.uk/climate/uk/summaries/dat
 IMD - [english-indices-of-deprivation-2015](https://www.gov.uk/government/statistics/english-indices-of-deprivation-2015)
 UK postcode areas - [postcode-areas](https://www.summergardenbuildings.co.uk/postcode-areas.html)
 
-**OUTPUT data (.csv files):**
-*brexit_postcodes.csv* - brexit vote vs postcode
 
-*imd.csv* - IMD vs postcode
-
-*income_postcodes.csv* - income vs postcode
-
-*gdp_percapita_uk.csv* - GDP per capita vs years (1995-2018)
-
+**What can be found in this repository:**
 
 - brexit, imd, income, weather - folders which contain raw data
 
 - brexit.ipynb, IMD_index_data.ipynb, income.ipynb, weather_data.ipynb - jupyter notebooks to handle raw data
 
 - plotting_price.ipynb - scatter plots for various variables (saved in a 'plots' folder)
+
+- **OUTPUT data (.csv files):**
+  - *brexit_postcodes.csv* - brexit vote vs postcode
+  
+  - *imd.csv* - IMD vs postcode
+  
+  - *income_postcodes.csv* - income vs postcode
+  
+  - *gdp_percapita_uk.csv* - GDP per capita vs years (1995-2018)
+
